@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "time.h": "c",
+        "stdio.h": "c",
+        "linked_list.h": "c"
+    }
+}
